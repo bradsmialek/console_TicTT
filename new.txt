@@ -1,0 +1,66 @@
+/*
+ * File: /Users/bradsmialek/tlg/javaScript/projects/ticTacToeGame/console_TicTT/new.txt
+ * Project: /Users/bradsmialek/tlg/javaScript/projects/ticTacToeGame/console_TicTT
+ * Created Date: Tuesday, June 2nd 2020, 4:00:21 am
+ * Author: Brad Smialek
+ * -----
+ * Last Modified: Tue Jun 02 2020
+ * Modified By: Brad Smialek
+ * -----
+ * HISTORY:
+ * Date      	By	Comments
+ * ----------	---	----------------------------------------------------------
+ */
+
+    //text colors
+black
+red
+green
+yellow
+blue
+magenta
+cyan
+white
+gray
+grey
+brightRed
+brightGreen
+brightYellow
+brightBlue
+brightMagenta
+brightCyan
+brightWhite
+
+    //background colors
+bgBlack
+bgRed
+bgGreen
+bgYellow
+bgBlue
+bgMagenta
+bgCyan
+bgWhite
+bgGray
+bgGrey
+bright background colors
+bgBrightRed
+bgBrightGreen
+bgBrightYellow
+bgBrightBlue
+bgBrightMagenta
+bgBrightCyan
+bgBrightWhite
+
+    //styles
+reset
+bold
+dim
+italic
+underline
+inverse
+hidden
+strikethrough
+
+
+
+

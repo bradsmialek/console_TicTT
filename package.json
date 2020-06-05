@@ -1,0 +1,34 @@
+{
+  "name": "console_tictt",
+  "version": "1.0.0",
+  "description": "Simple Console Version of Tic Tac Toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradsmialek/console_TicTT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradsmialek/console_TicTT/issues"
+  },
+  "homepage": "https://github.com/bradsmialek/console_TicTT#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "chalk-animation": "^1.6.0",
+    "chalk-pipe": "^4.0.0",
+    "colors": "^1.4.0",
+    "inquirer": "^7.1.0",
+    "inquirer-promise": "^1.0.0",
+    "node-emoji": "^1.10.0",
+    "node-figlet": "0.0.0",
+    "nodemon": "^2.0.4",
+    "prompt": "^1.0.0",
+    "random-chalk": "^1.0.1",
+    "readline-sync": "^1.4.10",
+    "terminal-kit": "^1.35.2"
+  }
+}

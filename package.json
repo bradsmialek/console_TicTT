@@ -29,6 +29,6 @@
     "prompt": "^1.0.0",
     "random-chalk": "^1.0.1",
     "readline-sync": "^1.4.10",
-    "terminal-kit": "^1.35.2"
+    "terminal-kit": "^1.49.4"
   }
 }
